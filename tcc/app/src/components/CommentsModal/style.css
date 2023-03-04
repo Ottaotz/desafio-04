@@ -1,0 +1,17 @@
+.comment-card {
+  margin: 0 30px;
+}
+
+.modal {
+  display: flex;
+  justify-content: center;
+  max-height: 400px;
+}
+
+.form-modal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 350px;
+  border-top: 1px #ada8a84f solid;
+}

@@ -1,0 +1,21 @@
+.user-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  width: 500px;
+  background-color: #7b5699;
+  border-radius: 15px;
+  color: #fff;
+}
+
+.card-image {
+  display: flex;
+  height: 200px;
+  width: 200px;
+}
+
+.username, .fullname {
+  margin: 0;
+}

@@ -1,0 +1,13 @@
+.text-input {
+  width: 300px;
+  border: 0;
+  border-radius: 10px;
+  border: 1px #ada8a84f solid;
+  height: 30px;
+  margin: 20px 10px;
+  color: #000;
+}
+
+.textInput-label {
+  margin-top: 20px;
+}

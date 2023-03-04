@@ -1,0 +1,18 @@
+.profile-container {
+  flex-direction: column;
+  position: relative;
+  justify-content: flex-start;
+  padding: 0 24px;
+  margin: 0 46px;
+  height: 100vh;
+}
+
+.profle-buttons-group {
+  display: flex;
+  justify-content: space-around;
+  width: 410px;
+}
+
+.profile-button-friends {
+  margin-bottom: 20px;
+}
